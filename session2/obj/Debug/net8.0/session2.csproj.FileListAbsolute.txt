@@ -1,0 +1,14 @@
+C:\Users\HP\.dotnet\session2\bin\Debug\net8.0\session2.exe
+C:\Users\HP\.dotnet\session2\bin\Debug\net8.0\session2.deps.json
+C:\Users\HP\.dotnet\session2\bin\Debug\net8.0\session2.runtimeconfig.json
+C:\Users\HP\.dotnet\session2\bin\Debug\net8.0\session2.dll
+C:\Users\HP\.dotnet\session2\bin\Debug\net8.0\session2.pdb
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.AssemblyInfoInputs.cache
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.AssemblyInfo.cs
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.csproj.CoreCompileInputs.cache
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.dll
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\refint\session2.dll
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.pdb
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
+C:\Users\HP\.dotnet\session2\obj\Debug\net8.0\ref\session2.dll
