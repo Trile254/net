@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.AssemblyInfo.cs
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.sourcelink.json
+C:\Users\HP\Desktop\cybersoft\net\session6\bin\Debug\net8.0\session6.exe
+C:\Users\HP\Desktop\cybersoft\net\session6\bin\Debug\net8.0\session6.deps.json
+C:\Users\HP\Desktop\cybersoft\net\session6\bin\Debug\net8.0\session6.runtimeconfig.json
+C:\Users\HP\Desktop\cybersoft\net\session6\bin\Debug\net8.0\session6.dll
+C:\Users\HP\Desktop\cybersoft\net\session6\bin\Debug\net8.0\session6.pdb
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.dll
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\refint\session6.dll
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.pdb
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\session6.genruntimeconfig.cache
+C:\Users\HP\Desktop\cybersoft\net\session6\obj\Debug\net8.0\ref\session6.dll
